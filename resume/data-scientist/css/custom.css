@@ -1,4 +1,16 @@
 body{
     background-color: #05445E;
-    color:#D4F1F4 !important;
+    color:#75E6DA !important;
+}
+
+.title-text{
+    color: #D4F1F4;
+}
+
+.text-primary{
+    color: #189AB4 !important;
+}
+
+.bg-primary{
+    background-color: #0b0c0d !important;
 }
