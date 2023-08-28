@@ -1,3 +1,15 @@
 body{
     background-color: #D4F1F4 !important;
 }
+
+#www>a:hover{
+    background-color: aquamarine;
+}
+
+.gmail>a:hover{
+    background-color: rgb(247, 205, 205);
+}
+
+.image.featured > img{
+    max-height: 200px;
+}
