@@ -14,3 +14,11 @@ body{
 .bg-primary{
     background-color: #0b0c0d !important;
 }
+
+.contract-work{
+    font-size: large !important;
+}
+
+p{
+    text-align: justify;
+}
