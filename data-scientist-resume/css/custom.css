@@ -1,0 +1,28 @@
+body{
+    color: #05445E;
+    background-color:#d9f8f5 !important;
+}
+
+.title-text{
+    color: #D4F1F4;
+}
+
+.text-primary{
+    color: #189AB4 !important;
+}
+
+.bg-primary{
+    background-color: #0b0c0d !important;
+}
+
+.contract-work{
+    font-size: large !important;
+}
+
+p{
+    text-align: justify;
+}
+
+a#whatsapp:hover{
+    background-color:aquamarine;
+}
